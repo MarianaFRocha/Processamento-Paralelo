@@ -1,0 +1,50 @@
+
+Aula Prática 2
+
+
+Nessa tarefa, você deve implementar duas operações envolvendo matrizes: multiplicação e potência ("elevado a n").
+
+ Seu programa deve receber como parâmetro 3 valores:
+
+ 1) O nome do arquivo contendo a matriz A
+
+ 2) O nome do arquivo contendo a matriz B
+
+ 3) O valor de n
+
+ 
+
+ Em seguida, você deve ler os dados das matrizes.
+
+ Comece implementando uma versão sequencial, que deve fazer as seguintes operação (em sequência).
+
+ A*B
+
+ B*A
+
+ A^n
+
+ B^n
+
+ Essa versão sequencial deve gerar um arquivo, para cada operação, contendo a resposta da operação. Sugestão, implemente uma função para a operação de multiplicação e outra para a potência.
+
+ Como na aula prática anterior, você deve medir e imprimir o tempo total gasto para que o programa termite as quatro operações.
+
+ 
+ A outra versão consiste em fazer com que cada operação seja executada por processos diferentes. Novamente, contabilize o tempo total gasto.
+
+
+Gere matrizes de tamanhos diferentes (100, 200, 300, 500, 700, 1000). Para cada tamanho, execute seu programa 30 vezes e gere o gráfico comparando o tempo gasto entre a versão sequencial e a paralela. 
+
+Tenha certeza que a sua implementação está correta. 
+
+ 
+
+ Obs: O arquivo contendo cada matriz deve ser da forma
+
+ N
+
+ a11 a12 a13... a1N
+...
+
+ aN1 aN2 aN3 ... aNN

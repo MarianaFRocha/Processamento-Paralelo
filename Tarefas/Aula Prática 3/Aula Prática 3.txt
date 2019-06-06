@@ -1,0 +1,9 @@
+Aula Prática 3
+
+
+Nessa aula prática você deve implementar a multiplicação de matrizes usando PThreads, de forma que cada thread fica responsável pelo calculo de uma parte da operação. 
+
+Faça experimentos com {1, 2, 3, 4, 5, 7, 8} threads para matrizes de tamanho {100, 200, 300, 500, 700}. Como sempre execute 30 vezes cada experimento e trace o gráfico.
+
+Você deve enviar o código e o gráfico gerado. 
+

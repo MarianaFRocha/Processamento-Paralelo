@@ -1,0 +1,7 @@
+Todos os códigos foram implementados em C e compilados com GNU gcc versão 5.4 com a opção -O3 ativada. Os experimentos foram realizados em uma máquina Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz, com 8GB de memória RAM e com Sistema Operacional Linux.
+
+Versão 1: Na versão 1 foi adicionada uma variável dentro do terceiro for para armazenar o resultado da soma de cada linha com a coluna da matriz.
+
+Versão 2: Na versão 2 a segunda matriz recebe sua transposta para assim quando ocorrer a multiplicação de matrizes ela vai poder somar cada uma das linha de uma matriz com a linha da outra matriz ao invés de ter que calcular linha por coluna.
+
+Versão 3: Nessa versão em vez da matriz ser feita por um vetor de vetores ela foi armazenada inteira em um único vetor.
