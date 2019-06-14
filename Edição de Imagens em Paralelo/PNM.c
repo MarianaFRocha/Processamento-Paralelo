@@ -1,7 +1,7 @@
 /*Algoritmo Paralelo de Filtros de Imagens
 
-	Copilar: 	gcc PNM.c -o pnm -lm
-				./pnm <Imagem.pnm>
+Copilar: gcc PNM.c -o pnm -lm
+	./pnm <Imagem.pnm>
 */
 
 
